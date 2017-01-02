@@ -6,3 +6,28 @@ Wrote an application using object-oriented Python and made the application serve
 **Project Overview**
 
 Wrote server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL and used my code to generate a static web page allowing visitors to browse their movies and watch the trailers.
+
+**Introductions**
+Website short_term display: http://79.170.44.120/techland.com/
+
+To run this program:
+
+step 1 Make sure Python is installed:
+Open up your terminal and run:
+
+$python --version
+
+This step is to confirm the installation.
+
+Step 2 Download this repository:
+
+$git clone https://github.com/fwangboulder/Project_MovieTrailerWebsite.git
+
+$ cd Project_MovieTrailerWebsite
+
+Step 3 Execute the program:
+
+$ python entertainment.py
+
+A browser should open on your local machine and and render the HTML template
+with Fang's favorite movies. Click on a movie to enjoy the trailer!

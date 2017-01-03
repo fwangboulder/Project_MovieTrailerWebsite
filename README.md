@@ -1,7 +1,7 @@
 # Project_MovieTrailerWebsite
 **Project 1 for Full Stack Web Developer Nanodegree**
 
-Wrote an application using object-oriented Python and made the application serveserve HTML via a web server. This project helps me to establish a foundation in core programming concepts using Python and make me  understand better  the role a simple web server has in receiving a request, executing a block of code and generating a response.
+Wrote an application using object-oriented Python and made the application serves HTML via a web server. This project helps me to establish a foundation in core programming concepts using Python and make me  understand better  the role a simple web server has in receiving a request, executing a block of code and generating a response.
 
 **Project Overview**
 

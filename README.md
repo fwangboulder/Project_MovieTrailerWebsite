@@ -15,6 +15,7 @@ A screen shot has also been attached.
 
 **How to run this program?**
 
+
 1. Make sure Python is installed:
 
     Open up your terminal and run:
@@ -22,6 +23,12 @@ A screen shot has also been attached.
     $ python --version
 
     This step is to confirm the installation.
+
+    To structure my code well and make sure they are Pep 8 compliant, I did the
+    following:
+    install autopep8 and run it for my file.
+    $ pip install --upgrade autopep8
+    $ autopep8 --in-place --aggressive --aggressive <filename>
 
 2. Download this repository:
 
@@ -35,3 +42,6 @@ A screen shot has also been attached.
 
     A browser should open on your local machine and and render the HTML template
 with Fang's favorite movies. Click on a movie to enjoy the trailer!
+
+Note:
+  Since

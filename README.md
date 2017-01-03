@@ -46,4 +46,4 @@ A screen shot has also been attached.
     A browser should open on your local machine and and render the HTML template
 with Fang's favorite movies. Click on a movie to enjoy the trailer!
 
-** The complete of this project means a good knowledge of "Programming Foundation with Python"**
+**The complete of this project also means the complete of course "Programming Foundation with Python".**

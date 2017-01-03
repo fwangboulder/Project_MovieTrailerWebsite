@@ -26,7 +26,7 @@ A screen shot has also been attached.
 
     To structure my code well and make sure they are Pep 8 compliant, I did the
     following:
-    
+
     install autopep8 and run it for my file.
 
     $ pip install --upgrade autopep8
@@ -46,5 +46,4 @@ A screen shot has also been attached.
     A browser should open on your local machine and and render the HTML template
 with Fang's favorite movies. Click on a movie to enjoy the trailer!
 
-Note:
-  Since
+** The complete of this project means a good knowledge of "Programming Foundation with Python"**

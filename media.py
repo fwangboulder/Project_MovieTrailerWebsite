@@ -1,8 +1,8 @@
 ##########################################
-# Project 3: Movie Website
-# Date Started: 10/31/2016
-# Date Completed: 10/31/2016
-# Submitted by: Jon Wayland
+# Project 1: Movie Website
+# Date Started: 01/01/2017
+# Date Completed: 01/02/2017
+# Submitted by: Fang Wang
 ##########################################
 
 ######################################## Media File ####################################################

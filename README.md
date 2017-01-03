@@ -26,8 +26,11 @@ A screen shot has also been attached.
 
     To structure my code well and make sure they are Pep 8 compliant, I did the
     following:
+    
     install autopep8 and run it for my file.
+
     $ pip install --upgrade autopep8
+
     $ autopep8 --in-place --aggressive --aggressive <filename>
 
 2. Download this repository:
